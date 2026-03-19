@@ -126,7 +126,7 @@
     {
       "id": "Kerteh Upper CTR",
       "group": "TWR",
-      "owner": ["ws/JC5", "ws/JC8", "ws/JC"],
+      "owner": ["ws/JC8", "ws/JC"],
       "sectors": [
         {
           "min": 55,
