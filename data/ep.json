@@ -716,7 +716,7 @@
                 {
                     "min":95,
                     "max":114,
-                    "points":[["505643","0185118"],["510349","0190840"],["512100","0194506"],["513032","0194012"],["513924","0193536"],["513801","0191735"],["513754","0191547"],["513706","0190917"],["513810","0190549"],["514048","0190415"],["514312","0185425"],["514745","0185148"],["515349","0185203"],["515923","0192506"],["520451","0192213"],["521127","0191842"],["522132","0191318"],["523136","0190752"],["523511","0184345"],["522201","0184031"],["520831","0183622"],["514701","0181012"],["512656","0180326"],["505942","0183651"],["505601","0184128"],["505643","0185118"]]
+                    "points":[["505643","0185118"],["510349","0190840"],["512100","0194506"],["513032","0194012"],["513924","0193536"],["513801","0191735"],["513754","0191547"],["513928","0190931"],["514048","0190415"],["514312","0185425"],["514745","0185148"],["515349","0185203"],["515923","0192506"],["520451","0192213"],["521127","0191842"],["522132","0191318"],["523136","0190752"],["523511","0184345"],["522201","0184031"],["520831","0183622"],["514701","0181012"],["512656","0180326"],["505942","0183651"],["505601","0184128"],["505643","0185118"]]
                 }
             ]
         },
@@ -1203,7 +1203,7 @@
         {
             "id":"EPBY TMA",
             "group":"APP",
-            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH","AGD"],
+            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH","AGD"],
             "sectors":[
                 {
                     "min":135,
@@ -1215,7 +1215,7 @@
         {
             "id":"EPBY TMA",
             "group":"APP",
-            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH","AGD"],
+            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH","AGD"],
             "sectors":[
                 {
                     "min":95,
@@ -1539,7 +1539,7 @@
         {
             "id":"EPZG TMA",
             "group":"APP",
-            "owner":["TZG","ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH"],
+            "owner":["TZG","ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH"],
             "sectors":[
                 {
                     "min":13,
@@ -1840,7 +1840,7 @@
             "sectors":[
                 {
                     "min":20,
-                    "max":44,
+                    "max":54,
                     "points":[["513754","0191547"],["513706","0190917"],["513810","0190549"],["514048","0190415"],["513928","0190931"],["513754","0191547"]]
                 }
             ]
@@ -2212,7 +2212,7 @@
         {
             "id":"EPPO TMA NORTH (CTA07)",
             "group":"APP",
-            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH","TZG"],
+            "owner":["ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH","TZG"],
             "sectors":[
                 {
                     "min":35,
@@ -2224,7 +2224,7 @@
         {
             "id":"EPZG CTR",
             "group":"TWR",
-            "owner":["TZG","ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH"],
+            "owner":["TZG","ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH"],
             "sectors":[
                 {
                     "min":0,
@@ -2308,7 +2308,7 @@
         {
             "id":"EPPO CTR",
             "group":"TWR",
-            "owner":["TPO","ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH"],
+            "owner":["TPO","ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH"],
             "sectors":[
                 {
                     "min":0,
@@ -3247,7 +3247,7 @@
         "EPPL":{"callsign":"Plock","coord":[52.561944,19.719722]},
         "EPPM":{"callsign":"Pila - Motylewo","coord":[53.108722,16.761139]},
         "EPPN":{"callsign":"Plonsk-Kepa","coord":[52.723639,20.420083]},
-        "EPPO":{"callsign":"Poznan","coord":[52.421031,16.826325],"topdown":["ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH"]},
+        "EPPO":{"callsign":"Poznan","coord":[52.421031,16.826325],"topdown":["ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH"]},
         "EPPR":{"callsign":"Pruszcz Gdanski","coord":[54.248056,18.671111]},
         "EPPS":{"callsign":"Smilowo","coord":[53.144972,16.881972]},
         "EPPT":{"callsign":"Piotrkow Trybunalski","coord":[51.3825,19.688611]},
@@ -3297,7 +3297,7 @@
         "EPZB":{"callsign":"Zborowo","coord":[52.366339,16.63175]},
         "EPZD":{"callsign":"Kozieglowy Zd","coord":[52.440833,17.001944]},
         "EPZE":{"callsign":"Zerniki","coord":[52.322489,17.040853]},
-        "EPZG":{"callsign":"Zielona Gora","coord":[52.138611,15.798611],"topdown":["ANPO","DL","DBT","DT","DTC","DBFG","ALM","NWW","AH"]},
+        "EPZG":{"callsign":"Zielona Gora","coord":[52.138611,15.798611],"topdown":["ANPO","DL","DBT","DT","DTC","DBFG","NWW","ALM","AH"]},
         "EPZK":{"callsign":"Zloczew-Konopnica","coord":[51.360481,18.822422]},
         "EPZL":{"callsign":"Zdziar-Lopatki","coord":[52.6355,20.070222]},
         "EPZN":{"callsign":"Zagan","coord":[51.626778,15.405211]},
